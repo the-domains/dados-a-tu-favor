@@ -1,0 +1,27 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#DC4648'
+    - '#5E5E5E'
+    - '#CE9A1C'
+    - '#000000'
+  brandStrength: 0.7399407455231994
+  lightness: 0.0012651649303734303
+  saturation: 0.7630845028907061
+  rhythmicContrast: 0.2747214287519455
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Dados a tu Favor
+layout_spectrum: 0.057138227159157395
+typography_spectrum: 0.28280528471805155
+content: []
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7038f545-c611-4522-8ad5-523ee3487c3c.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf187bcf-692d-4482-8863-d16cc4c8749d.png
