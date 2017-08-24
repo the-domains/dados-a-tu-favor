@@ -19,31 +19,7 @@ colors:
 name: Dados a tu Favor
 layout_spectrum: 0.057138227159157395
 typography_spectrum: 0.28280528471805155
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: article
-    html: <article><h1>Redirect Notice</h1></article>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'http://images.google.co.uk'
-        name: Google
-        favicon: 'http://images.google.co.uk/favicon.ico'
-        domain: goo.gl
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: 'https://goo.gl/images/r2TpcV'
-      title: Redirect Notice
-      datePublished: null
-    title: Redirect Notice
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7038f545-c611-4522-8ad5-523ee3487c3c.png
