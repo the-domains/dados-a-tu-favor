@@ -1,21 +1,22 @@
 ---
 publisher: {}
-dateModified: '2017-08-26T11:09:28.973Z'
+dateModified: '2017-08-27T10:07:17.571Z'
 via: {}
 description: Invitación Fondo 10 mil.
 title: ''
 inFeed: true
 author: []
-datePublished: '2017-08-26T11:10:53.802Z'
+datePublished: '2017-08-27T10:07:18.466Z'
+sourcePath: _posts/2017-08-26-invitacion-fondo-10-mil.md
+hasPage: false
 starred: true
 datePublishedOriginal: '2017-08-26T11:10:53.802Z'
-sourcePath: _posts/2017-08-26-invitacion-fondo-10-mil.md
 _type: Blurb
 
 ---
 Invitación Fondo 10 mil.
 
-Invitamos a cualquier inversionista mexicano que tenga ganas de formar parte de un producto de inversión diferente. 
+Invitamos a cualquier inversionista mexicano que tenga ganas de formar parte de un producto de inversión diferente.
 
 Monto mínimo por inversor $ 10 mil usd, monto máximo por inversor 50 mil usd.
 
