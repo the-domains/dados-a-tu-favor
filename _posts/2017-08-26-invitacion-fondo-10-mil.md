@@ -1,12 +1,12 @@
 ---
 publisher: {}
-dateModified: '2017-08-27T10:53:30.210Z'
+dateModified: '2017-08-27T11:14:44.178Z'
 via: {}
-description: Invitación Fondo 10 mil.
+description: Fondo 10 mil.
 title: ''
 inFeed: true
 author: []
-datePublished: '2017-08-27T10:53:30.426Z'
+datePublished: '2017-08-27T11:14:45.177Z'
 sourcePath: _posts/2017-08-26-invitacion-fondo-10-mil.md
 hasPage: true
 starred: true
@@ -15,11 +15,13 @@ url: invitacion-fondo-10-mil/index.html
 _type: Article
 
 ---
-Invitación Fondo 10 mil.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20992cd8-622a-45f8-af3b-cb7e7c5124b3.jpg)
+
+Fondo 10 mil.
 
 Invitamos a cualquier inversionista mexicano que tenga ganas de formar parte de un producto de inversión diferente.
 
-Monto mínimo por inversor $ 10 mil usd, monto máximo por inversor 50 mil usd.
+Monto mínimo por inversor $ 10 mil usd, monto máximo por inversor $ 50 mil usd.
 
 Tesis de inversión.
 
