@@ -1,3 +1,4 @@
+typography_spectrum: 0.28280528471805155
 color:
   brandColors:
     - '#FFFFFF'
@@ -9,6 +10,14 @@ color:
   lightness: 0.0012651649303734303
   saturation: 0.7630845028907061
   rhythmicContrast: 0.2747214287519455
+github: true
+layout_spectrum: 0.057138227159157395
+author:
+  name: Manuel Blanco Appleby
+  email: manuelblancoappleby@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e439cb5b-66a5-4161-83ea-7fe3591c6654.png
+name: Dados a tu Favor
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,9 +25,13 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Dados a tu Favor
-layout_spectrum: 0.057138227159157395
-typography_spectrum: 0.28280528471805155
+navigation:
+  - name: Invitación
+    id: 29adadb0-57df-4de2-93ca-80f0e707fbd6
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf187bcf-692d-4482-8863-d16cc4c8749d.png
+title: Dados a tu favor
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,31 +41,22 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/69e3bcf7-9bdf-4de8-88ea-bb33fa60df6c.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e439cb5b-66a5-4161-83ea-7fe3591c6654.png
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf187bcf-692d-4482-8863-d16cc4c8749d.png
-author:
-  name: Manuel Blanco Appleby
-  email: manuelblancoappleby@gmail.com
-title: Dados a tu favor
 description: Firma de Capital privado
 purpose:
   - type: contact
