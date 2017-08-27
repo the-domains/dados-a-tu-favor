@@ -1,17 +1,18 @@
 ---
 publisher: {}
-dateModified: '2017-08-27T10:07:17.571Z'
+dateModified: '2017-08-27T10:08:47.185Z'
 via: {}
 description: Invitación Fondo 10 mil.
 title: ''
 inFeed: true
 author: []
-datePublished: '2017-08-27T10:07:18.466Z'
+datePublished: '2017-08-27T10:08:48.171Z'
 sourcePath: _posts/2017-08-26-invitacion-fondo-10-mil.md
-hasPage: false
+hasPage: true
 starred: true
 datePublishedOriginal: '2017-08-26T11:10:53.802Z'
-_type: Blurb
+url: invitacion-fondo-10-mil/index.html
+_type: Article
 
 ---
 Invitación Fondo 10 mil.
