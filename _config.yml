@@ -25,10 +25,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Invitación
-    id: 29adadb0-57df-4de2-93ca-80f0e707fbd6
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf187bcf-692d-4482-8863-d16cc4c8749d.png
 title: Dados a tu favor
