@@ -25,6 +25,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: ¿Qué somos?
+    id: fbfe1c8a-8a12-46d3-8575-e72bdc6837a2
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf187bcf-692d-4482-8863-d16cc4c8749d.png
 title: Dados a tu favor
