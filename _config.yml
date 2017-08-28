@@ -27,9 +27,6 @@ colors:
     - 'hsl(0,0%,20%)'
 navigation:
   - name: Invitación
-    id: e3e321c7-c730-4e31-b0a1-48e03c6109f6
-    type: content
-  - name: Invitación
     id: 0a4ae5be-03d1-40ca-9bd8-e27f48d876d7
     type: content
 favicon: >-
