@@ -62,3 +62,6 @@ purpose:
   - type: contact
     url: 'tel:447491204532'
     label: + 447491204532
+  - type: contact
+    url: 'mailto:inversionistas@dadosatufavor.com'
+    label: Email
