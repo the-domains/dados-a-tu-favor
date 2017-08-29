@@ -1,26 +1,27 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-29T10:37:19.916Z'
-datePublished: '2017-08-29T10:37:21.027Z'
+dateModified: '2017-08-29T10:40:34.308Z'
+datePublished: '2017-08-29T10:40:35.403Z'
 title: >-
   ¿Eres un inversionista? ¿Admiras la creatividad? ¿Crees en el talento y la
   perseverancia?
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: _posts/2017-08-24-eres-un-inversionista-te-gusta-sonar-en-grande-crees-e.md
 starred: false
 datePublishedOriginal: '2017-08-24T18:57:05.797Z'
-_type: Blurb
+url: eres-un-inversionista-admiras-la-creatividad-crees-en-e/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/268e0ed4-8aef-4c09-b62a-b8e583ef0c2b.jpg)
 
 # ¿Eres un inversionista? ¿Admiras la creatividad? ¿Crees en el talento y la perseverancia?
 
-## Si sí, esta invitación es para ti. 
+## Si sí, esta invitación es para ti.
 
 ---
 
