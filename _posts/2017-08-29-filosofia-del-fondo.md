@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-29T12:05:10.747Z'
-datePublished: '2017-08-29T12:05:12.143Z'
+dateModified: '2017-08-29T12:11:35.198Z'
+datePublished: '2017-08-29T12:11:36.046Z'
 title: Filosofía del fondo.
 author: []
 publisher: {}
@@ -21,6 +21,7 @@ _type: Article
 
 ---
 
+Para que lo decimos nosotros...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4fa9f77-abf5-40c9-b21c-c91202b8f354.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d795a8e0-5b32-489a-8efb-4ced42fbf484.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0809383e-f980-4666-af2f-d81453ab83d5.jpg)
