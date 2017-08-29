@@ -1,10 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Nos vemos como un fondo de capital que participa activamente en la creación de
-  valor y riqueza.
-dateModified: '2017-08-28T11:11:51.470Z'
-datePublished: '2017-08-28T11:11:52.231Z'
+description: '¿Qué somos? '
+dateModified: '2017-08-29T09:13:13.203Z'
+datePublished: '2017-08-29T09:13:13.775Z'
 title: ''
 author: []
 publisher: {}
@@ -18,6 +16,10 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fc8e99a-223c-4baa-9943-7cb0ee30827b.jpg)
+
+¿Qué somos?
+
+---
 
 Nos vemos como un fondo de capital que participa activamente en la creación de valor y riqueza.
 
