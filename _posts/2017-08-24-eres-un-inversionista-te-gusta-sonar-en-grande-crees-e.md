@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-28T11:09:53.576Z'
-datePublished: '2017-08-28T11:09:54.182Z'
+dateModified: '2017-08-29T10:37:19.916Z'
+datePublished: '2017-08-29T10:37:21.027Z'
 title: >-
   ¿Eres un inversionista? ¿Admiras la creatividad? ¿Crees en el talento y la
   perseverancia?
@@ -20,4 +20,16 @@ _type: Blurb
 
 # ¿Eres un inversionista? ¿Admiras la creatividad? ¿Crees en el talento y la perseverancia?
 
-## Si sí, esta invitación es para ti.
+## Si sí, esta invitación es para ti. 
+
+---
+
+Antes que anda, te saludamos con mucho gusto esperando que te encuentres muy bien.
+
+Aquí los detalles...
+
+Monto mínimo de Inversión 1o mil usd, monto máximo 500 mil usd, si no es tu momento, igual nos gustaría mucho conocerte, tendremos etapas para que participes con menos capital en el futuro cercano. Si conoces a alguien que le pueda interesar pueden participar en conjunto.
+
+Retorno de inversión. 14 mil dólares por cada 10 mil dólares invertidos con fecha de vencimiento a 2 años.
+
+Proceso Notarias.
