@@ -29,9 +29,6 @@ navigation:
   - name: Invitación
     id: 0a4ae5be-03d1-40ca-9bd8-e27f48d876d7
     type: content
-  - name: ¿Qué somos?
-    id: fbfe1c8a-8a12-46d3-8575-e72bdc6837a2
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf187bcf-692d-4482-8863-d16cc4c8749d.png
 title: Dados a tu favor
