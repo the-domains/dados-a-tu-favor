@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-29T11:41:00.842Z'
-datePublished: '2017-08-29T11:41:01.412Z'
+dateModified: '2017-08-29T11:41:24.754Z'
+datePublished: '2017-08-29T11:41:25.295Z'
 title: Filosofía del fondo.
 author: []
 publisher: {}
