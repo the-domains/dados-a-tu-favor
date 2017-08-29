@@ -29,6 +29,9 @@ navigation:
   - name: Invitación
     id: e3e321c7-c730-4e31-b0a1-48e03c6109f6
     type: content
+  - name: Filosofía
+    id: 57f82557-4fab-45b2-8070-629bd8cfd3d6
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf187bcf-692d-4482-8863-d16cc4c8749d.png
 title: Dados a tu favor
