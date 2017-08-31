@@ -1,11 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-29T10:41:38.657Z'
-datePublished: '2017-08-29T10:41:39.305Z'
-title: >-
-  ¿Eres un inversionista? ¿Admiras la creatividad? ¿Crees en el talento y la
-  perseverancia?
+dateModified: '2017-08-31T19:19:22.783Z'
+datePublished: '2017-08-31T19:19:23.664Z'
+title: ¿Eres un inversionista? ¿Admiras la creatividad? ¿Crees en el talento?
 author: []
 publisher: {}
 via: {}
@@ -19,13 +17,13 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/268e0ed4-8aef-4c09-b62a-b8e583ef0c2b.jpg)
 
-# ¿Eres un inversionista? ¿Admiras la creatividad? ¿Crees en el talento y la perseverancia?
+# ¿Eres un inversionista? ¿Admiras la creatividad? ¿Crees en el talento?
 
 ## Si sí, esta invitación es para ti.
 
 ---
 
-Antes que anda, te saludamos con mucho gusto esperando que te encuentres muy bien.
+Antes que nada, te saludamos con mucho gusto esperando que te encuentres muy bien.
 
 Aquí los detalles...
 
