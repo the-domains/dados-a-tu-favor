@@ -1,4 +1,5 @@
-typography_spectrum: 0.28280528471805155
+layout_spectrum: 0.05965379206648115
+typography_spectrum: 0.6946057287940183
 color:
   brandColors:
     - '#FFFFFF'
@@ -6,12 +7,11 @@ color:
     - '#5E5E5E'
     - '#CE9A1C'
     - '#000000'
-  brandStrength: 0.7399407455231994
-  lightness: 0.0012651649303734303
-  saturation: 0.7630845028907061
-  rhythmicContrast: 0.2747214287519455
+  brandStrength: 0.6696410085207386
+  lightness: 0.0074744065047822675
+  saturation: 0.7692101806226085
+  rhythmicContrast: 0.7472458304331112
 github: true
-layout_spectrum: 0.057138227159157395
 author:
   name: Manuel Blanco Appleby
   email: manuelblancoappleby@gmail.com
