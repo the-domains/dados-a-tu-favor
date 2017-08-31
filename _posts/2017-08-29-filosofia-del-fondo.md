@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   "No podemos esperar a que haya distanciamientos masivos en la sociedad si
   queremos prepararnos para la Cuarta Revolución Industrial."
-dateModified: '2017-08-31T19:21:24.980Z'
-datePublished: '2017-08-31T19:21:25.731Z'
+dateModified: '2017-08-31T19:28:34.819Z'
+datePublished: '2017-08-31T19:28:35.789Z'
 title: Filosofía del fondo.
 author: []
 publisher: {}
