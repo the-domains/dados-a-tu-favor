@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-31T19:19:22.783Z'
-datePublished: '2017-08-31T19:19:23.664Z'
+dateModified: '2017-08-31T19:29:11.253Z'
+datePublished: '2017-08-31T19:29:11.762Z'
 title: ¿Eres un inversionista? ¿Admiras la creatividad? ¿Crees en el talento?
 author: []
 publisher: {}
@@ -31,4 +31,4 @@ Monto mínimo de Inversión 1o mil usd, monto máximo 500 mil usd, si no es tu m
 
 Retorno de inversión. 14 mil dólares por cada 10 mil dólares invertidos con fecha de vencimiento a 2 años.
 
-Proceso Notarias.
+Proceso Notarial.
