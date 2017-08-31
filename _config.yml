@@ -1,5 +1,5 @@
-layout_spectrum: 0.056497344638377724
-typography_spectrum: 0.6644395204075603
+layout_spectrum: 0.05131273112204479
+typography_spectrum: 0.4860842032221579
 color:
   brandColors:
     - '#FFFFFF'
@@ -7,10 +7,10 @@ color:
     - '#5E5E5E'
     - '#CE9A1C'
     - '#000000'
-  brandStrength: 0.6692235960891599
-  lightness: 0.0025684130124489567
-  saturation: 0.6988053712169501
-  rhythmicContrast: 0.7478125623548126
+  brandStrength: 0.664951866947594
+  lightness: 0.003937554361280239
+  saturation: 0.6981080615492814
+  rhythmicContrast: 0.2704117144640572
 github: true
 author:
   name: Manuel Blanco Appleby
