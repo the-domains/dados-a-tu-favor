@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   "No podemos esperar a que haya distanciamientos masivos en la sociedad si
   queremos prepararnos para la Cuarta Revolución Industrial."
-dateModified: '2017-08-31T19:28:34.819Z'
-datePublished: '2017-08-31T19:28:35.789Z'
+dateModified: '2017-09-06T09:13:35.126Z'
+datePublished: '2017-09-06T09:13:35.947Z'
 title: Filosofía del fondo.
 author: []
 publisher: {}
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 
-Para que lo decimos nosotros...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4fa9f77-abf5-40c9-b21c-c91202b8f354.png)
 
 "Hay Cuatro ingredientes en el verdadero liderazgo: cerebro, emoción, pasión y nervios de acero".
