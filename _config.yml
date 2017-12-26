@@ -66,8 +66,5 @@ content:
 description: Firma de Capital privado
 purpose:
   - type: contact
-    url: 'tel:447491204532'
-    label: Teléfono
-  - type: contact
     url: 'mailto:inversionistas@dadosatufavor.com'
     label: Email
