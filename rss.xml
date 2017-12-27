@@ -4,9 +4,9 @@
         <description><![CDATA[Dados a tu favor]]></description>
         <link>https://thegrid.ai/dados-a-tu-favor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Dec 2017 14:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2017 14:47:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dados-a-tu-favor/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 Dec 2017 14:44:43 GMT</pubDate>
+        <pubDate>Wed, 27 Dec 2017 14:47:19 GMT</pubDate>
         <item>
             <title><![CDATA[Buscamos inversionistas que piensen que la generación de riqueza es un ejercicio de estrategia y conocimiento…]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/268e0ed4-8aef-4c09-b62a-b8e583ef0c2b.jpg">,<h1>Buscamos inversionistas que piensen que la generación de riqueza es un ejercicio de estrategia y conocimiento…</h1>,<h2>Si te identificas, esta invitación es para ti.</h2>]]></description>
@@ -15,18 +15,18 @@
             <pubDate>Thu, 24 Aug 2017 18:57:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Filosofía del fondo.]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9701292c-dc22-47b1-a94a-1e435676df5f.jpg" alt="&quot;No podemos esperar a que haya distanciamientos masivos en la sociedad si queremos prepararnos para la Cuarta Revoluci&oacute;n Industrial.&quot;">,<h1>Filosofía del fondo.</h1>]]></description>
-            <link>https://thegrid.ai/dados-a-tu-favor/filosofia-del-fondo/index.html</link>
-            <guid isPermaLink="false">57f82557-4fab-45b2-8070-629bd8cfd3d6</guid>
-            <pubDate>Tue, 29 Aug 2017 10:59:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Visión.]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e89dabd3014ea92f3a662341751992cb/croprotate.jpg?cropheight=3167&cropwidth=4713&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F13953c5a-422d-4dfd-88ba-6f7c59b8068a.jpg&x=0&y=0">,<h1>Visión.</h1>]]></description>
             <link>https://thegrid.ai/dados-a-tu-favor/vision/index.html</link>
             <guid isPermaLink="false">5cc82338-0e92-4411-a19e-313379809d02</guid>
             <pubDate>Tue, 29 Aug 2017 11:05:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Filosofía del fondo.]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9701292c-dc22-47b1-a94a-1e435676df5f.jpg" alt="&quot;No podemos esperar a que haya distanciamientos masivos en la sociedad si queremos prepararnos para la Cuarta Revoluci&oacute;n Industrial.&quot;">,<h1>Filosofía del fondo.</h1>]]></description>
+            <link>https://thegrid.ai/dados-a-tu-favor/filosofia-del-fondo/index.html</link>
+            <guid isPermaLink="false">57f82557-4fab-45b2-8070-629bd8cfd3d6</guid>
+            <pubDate>Tue, 29 Aug 2017 10:59:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
