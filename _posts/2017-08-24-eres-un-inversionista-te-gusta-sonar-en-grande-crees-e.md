@@ -1,9 +1,11 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-31T19:29:22.362Z'
-datePublished: '2017-08-31T19:29:22.949Z'
-title: ¿Eres un inversionista? ¿Admiras la creatividad? ¿Crees en el talento?
+dateModified: '2017-12-27T01:37:36.290Z'
+datePublished: '2017-12-27T01:37:37.773Z'
+title: >-
+  Buscamos inversionistas que piensen que la generación de riqueza es un
+  ejercicio de estrategia e inteligencia…
 author: []
 publisher: {}
 via: {}
@@ -17,9 +19,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/268e0ed4-8aef-4c09-b62a-b8e583ef0c2b.jpg)
 
-# ¿Eres un inversionista? ¿Admiras la creatividad? ¿Crees en el talento?
+# Buscamos inversionistas que piensen que la generación de riqueza es un ejercicio de estrategia e inteligencia...
 
-## Si sí, esta invitación es para ti.
+## Si te identificas, esta invitación es para ti.
 
 ---
 
