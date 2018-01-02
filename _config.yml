@@ -15,8 +15,7 @@ github: true
 author:
   name: Manuel Blanco Appleby
   email: manuelblancoappleby@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e439cb5b-66a5-4161-83ea-7fe3591c6654.png
+logo: null
 name: Dados a tu Favor
 colors:
   brandColors:
@@ -35,8 +34,7 @@ navigation:
   - name: Visión
     id: 5cc82338-0e92-4411-a19e-313379809d02
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf187bcf-692d-4482-8863-d16cc4c8749d.png
+favicon: null
 title: Dados a tu favor
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -68,3 +66,4 @@ purpose:
   - type: contact
     url: 'mailto:inversionistas@dadosatufavor.com'
     label: Email
+url: 'https://dadosatufavor.com'
