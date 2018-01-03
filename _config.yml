@@ -61,7 +61,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Firma de Capital privado
+description: Firma de Capital Privado
 purpose:
   - type: contact
     url: 'mailto:inversionistas@dadosatufavor.com'
