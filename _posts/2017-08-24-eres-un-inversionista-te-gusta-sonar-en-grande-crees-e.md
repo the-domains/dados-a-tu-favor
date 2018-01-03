@@ -1,12 +1,12 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-03T17:01:08.624Z'
-datePublished: '2018-01-03T17:01:09.752Z'
+dateModified: '2018-01-03T17:29:06.456Z'
+datePublished: '2018-01-03T17:29:07.292Z'
 title: >-
   Buscamos inversionistas que piensen que la generación de riqueza es un
-  ejercicio de estrategia ,conocimiento, y uso eficiente de recursos en el
-  tiempo.
+  ejercicio de estrategia, conocimiento, y uso eficiente de recursos en el
+  tiempo
 author: []
 publisher: {}
 via: {}
@@ -20,7 +20,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/268e0ed4-8aef-4c09-b62a-b8e583ef0c2b.jpg)
 
-# Buscamos inversionistas que piensen que la generación de riqueza es un ejercicio de estrategia ,conocimiento, y uso eficiente de recursos en el tiempo.
+# Buscamos inversionistas que piensen que la generación de riqueza es un ejercicio de estrategia, conocimiento, y uso eficiente de recursos en el tiempo
 
 ## Si te identificas, esta invitación es para ti.
 
@@ -28,6 +28,6 @@ _type: Article
 
 Antes que nada, te saludamos con mucho gusto esperando que te encuentres muy bien.
 
-Aquí los detalles...
+El monto mínimo de inversión es 1o mil usd, monto máximo 500 mil usd. Si te interesa conocer más, te pedimos por favor que nos mandes un correo electrónico a inversionistas@dadosatufavor.com para establecer comunicación personal contigo. Si no es tu momento, y te interesa con toda confianza escríbenos si quieres saber más.
 
-Monto mínimo de Inversión 1o mil usd, monto máximo 500 mil usd, si no es tu momento, igual nos gustaría mucho conocerte, tendremos etapas para que participes con menos capital en el futuro cercano. Si conoces a alguien que le pueda interesar pueden participar en conjunto.
+Saludos Cordiales.
