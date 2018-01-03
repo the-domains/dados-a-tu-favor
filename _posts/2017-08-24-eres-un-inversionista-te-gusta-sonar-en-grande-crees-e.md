@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-03T17:29:06.456Z'
-datePublished: '2018-01-03T17:29:07.292Z'
+dateModified: '2018-01-03T17:29:22.700Z'
+datePublished: '2018-01-03T17:29:23.527Z'
 title: >-
   Buscamos inversionistas que piensen que la generación de riqueza es un
   ejercicio de estrategia, conocimiento, y uso eficiente de recursos en el
