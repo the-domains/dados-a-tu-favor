@@ -1,3 +1,4 @@
+name: Dados a tu Favor
 layout_spectrum: 0.05131273112204479
 typography_spectrum: 0.4860842032221579
 color:
@@ -11,19 +12,15 @@ color:
   lightness: 0.003937554361280239
   saturation: 0.6981080615492814
   rhythmicContrast: 0.2704117144640572
-github: true
+purpose:
+  - type: contact
+    label: Email
+    url: 'mailto:inversionistas@dadosatufavor.com'
+title: Dados a tu favor
+description: Firma de Capital Privado
 author:
   name: Manuel Blanco Appleby
   email: manuelblancoappleby@gmail.com
-logo: null
-name: Dados a tu Favor
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
 navigation:
   - name: Invitación
     id: e3e321c7-c730-4e31-b0a1-48e03c6109f6
@@ -34,8 +31,6 @@ navigation:
   - name: Propuesta
     id: 5cc82338-0e92-4411-a19e-313379809d02
     type: content
-favicon: null
-title: Dados a tu favor
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -45,25 +40,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/69e3bcf7-9bdf-4de8-88ea-bb33fa60df6c.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      app_links: []
+      '@context': 'http://schema.org'
+      keywords: []
       publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
       description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Firma de Capital Privado
-purpose:
-  - type: contact
-    url: 'mailto:inversionistas@dadosatufavor.com'
-    label: Email
-url: 'https://dadosatufavor.com'
+github: true
