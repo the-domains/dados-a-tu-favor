@@ -3,18 +3,17 @@ inFeed: true
 description: >-
   Nos dedicamos a encontrar soluciones para individuos o corporaciones que
   tienen necesidades específicas en la industria financiera.
-dateModified: '2018-05-12T14:44:32.364Z'
-datePublished: '2018-05-12T14:44:33.239Z'
+dateModified: '2018-05-12T14:45:56.680Z'
+datePublished: '2018-05-12T14:45:57.526Z'
 title: Qué hacemos?
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
 sourcePath: _posts/2017-08-24-eres-un-inversionista-te-gusta-sonar-en-grande-crees-e.md
 starred: false
 datePublishedOriginal: '2017-08-24T18:57:05.797Z'
-url: eres-un-inversionista-admiras-la-creatividad-crees-en-e/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Qué hacemos?
