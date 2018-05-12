@@ -14,8 +14,8 @@ color:
   rhythmicContrast: 0.2704117144640572
 purpose:
   - type: contact
-    label: Email
-    url: 'mailto:inversionistas@dadosatufavor.com'
+    label: 'Contact '
+    url: 'mailto:clientes@dadosatufavor.com'
 title: Dados a tu favor
 description: 'Firma Consultora en la industria FX, CFDs, CryptoAssets.'
 author:
