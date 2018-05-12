@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Compra y venta de Cryptomonedas en cantidades por encima de los $100 mil USD.
-dateModified: '2018-05-12T15:05:06.586Z'
-datePublished: '2018-05-12T15:05:07.463Z'
+dateModified: '2018-05-12T15:10:25.196Z'
+datePublished: '2018-05-12T15:10:26.033Z'
 title: Servicios.
 author: []
 publisher: {}
@@ -18,10 +18,10 @@ _type: Blurb
 
 Compra y venta de Cryptomonedas en cantidades por encima de los $100 mil USD.
 
-Estudios de modelos matemáticos para el pronóstico de mercados financieros.
-
 Valuaciones de CryptoAssets.
 
 Conferencias temáticas relacionadas con Forex, CFDs, CryptoAssets.
 
 Investment Management.
+
+Modelos matemáticos para el pronóstico de mercados financieros.
