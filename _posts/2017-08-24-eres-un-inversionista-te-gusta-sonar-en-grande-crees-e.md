@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: Compra y venta de Cryptomonedas en cantidades por encima de los $100 mil USD.
-dateModified: '2018-05-12T14:51:54.409Z'
-datePublished: '2018-05-12T14:51:55.293Z'
+description: ''
+dateModified: '2018-05-12T14:53:48.859Z'
+datePublished: '2018-05-12T14:53:49.628Z'
 title: Qué hacemos?
 author: []
 publisher: {}
@@ -16,13 +16,3 @@ _type: Blurb
 ---
 # Qué hacemos?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/268e0ed4-8aef-4c09-b62a-b8e583ef0c2b.jpg)
-
-## Servicios
-
-Compra y venta de Cryptomonedas en cantidades por encima de los $100 mil USD.
-
-Estudios de modelos matemáticos para el pronóstico de mercados financieros.
-
-Valuaciones de CryptoAssets.
-
-Conferencias temáticas relacionadas con Forex, CFDs, CryptoAssets e Investment Management.
