@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Compra y venta de Cryptomonedas en cantidades por encima de los $100 mil USD.
-dateModified: '2018-05-12T14:51:05.416Z'
-datePublished: '2018-05-12T14:51:06.181Z'
+dateModified: '2018-05-12T14:51:42.653Z'
+datePublished: '2018-05-12T14:51:43.356Z'
 title: Qué hacemos?
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ _type: Blurb
 
 ---
 # Qué hacemos?
-![Nos dedicamos a encontrar soluciones para individuos o corporaciones que tienen necesidades específicas en la industria financiera.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/268e0ed4-8aef-4c09-b62a-b8e583ef0c2b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/268e0ed4-8aef-4c09-b62a-b8e583ef0c2b.jpg)
 
 ## Servicios
 
